@@ -2,3 +2,4 @@ Inicio do projeto
 Divisão de tarefas
 Front End
 Back end
+Merge Front/Back
